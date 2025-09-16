@@ -7,19 +7,20 @@ Credits and use of AI tools:
 
 ChatGPT
 
-Supported planning the data cleaning methodology
-Assisted with background research
+* Supported planning the data cleaning methodology
+* Assisted with background research
+* Helped me refine my research question
 
 Deepseek
 
-* Helped fix label spacing and positioning in graphs
+* Helped fix label spacing and positioning in charts
 * Guided how material composition could be parsed from window.__REACT_QUERY_STATE__ for C&A scraper
 * Helped detect formatting patterns to design regex code
 * Asked it the meaning of error messages to help me debug my code
 
 Claude
 
-* Generated a prototype data dashboard for exploratory analysis
+* Generated a prototype data dashboard for initial data analysis
 * Note: many values were hallucinated, but it inspired my own analytical approach
 
 YouTube Tutorial
