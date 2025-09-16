@@ -7,7 +7,7 @@ Credits and use of AI tools:
 
 ChatGPT
 
-* Supported planning the data cleaning methodology
+* Supported planning my data cleaning methodology
 * Assisted with background research
 * Helped me refine my research question
 
@@ -21,7 +21,7 @@ Deepseek
 Claude
 
 * Generated a prototype data dashboard for initial data analysis
-* Note: many values were hallucinated, but it inspired my own analytical approach
+* Note: most values were hallucinated, but it inspired my own analytical approach
 
 YouTube Tutorial
 * Followed this Scrapy tutorial to understand how to use Scrapy to scrape an e-commerce site: https://youtu.be/4WjNFv2RPo0?si=840EBLvfCmpDVOuX
