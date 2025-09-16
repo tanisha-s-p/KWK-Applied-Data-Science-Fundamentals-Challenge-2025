@@ -4,6 +4,7 @@ Project Title: THE FORGOTTEN BARRIER TOWARDS CIRCULAR FASHION
 Research Question: To what extent are mono-material garments represented in the new-arrival collections of popular fashion brands in the Netherlands, and how prevalent is elastane in the material blends of these collections?
 
 Credits and use of AI tools:
+
 ChatGPT
 
 Supported planning the data cleaning methodology
