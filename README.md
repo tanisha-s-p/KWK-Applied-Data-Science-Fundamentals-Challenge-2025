@@ -8,7 +8,7 @@ Credits and use of AI tools:
 ChatGPT
 
 * Supported planning my data cleaning methodology
-* Assisted with background research
+* Assisted with background research (I used deep research tool)
 * Helped me refine my research question
 
 Deepseek
